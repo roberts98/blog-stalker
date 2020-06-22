@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/blog-stalker/static/js/main.1104bc4c.chunk.js",
+    "main.js.map": "/blog-stalker/static/js/main.1104bc4c.chunk.js.map",
+    "runtime-main.js": "/blog-stalker/static/js/runtime-main.842b016c.js",
+    "runtime-main.js.map": "/blog-stalker/static/js/runtime-main.842b016c.js.map",
+    "static/js/2.d7fc649a.chunk.js": "/blog-stalker/static/js/2.d7fc649a.chunk.js",
+    "static/js/2.d7fc649a.chunk.js.map": "/blog-stalker/static/js/2.d7fc649a.chunk.js.map",
+    "index.html": "/blog-stalker/index.html",
+    "precache-manifest.118ec4a28d5f8868819ac23a6276ee79.js": "/blog-stalker/precache-manifest.118ec4a28d5f8868819ac23a6276ee79.js",
+    "service-worker.js": "/blog-stalker/service-worker.js",
+    "static/js/2.d7fc649a.chunk.js.LICENSE.txt": "/blog-stalker/static/js/2.d7fc649a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.842b016c.js",
+    "static/js/2.d7fc649a.chunk.js",
+    "static/js/main.1104bc4c.chunk.js"
+  ]
+}
