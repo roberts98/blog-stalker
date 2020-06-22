@@ -2,7 +2,7 @@
 
 ## Watch live
 
-[Demo][https://roberts98.github.com/blog-stalker]
+[Demo](https://roberts98.github.io/blog-stalker)
 
 ## Run on localhost
 
